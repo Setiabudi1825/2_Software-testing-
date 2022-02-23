@@ -1,3 +1,4 @@
-start
-penyataan pertama : pada ember pertama, buang isi di ember tersebut sebanyak 1L untuk memperoleh nilai 4L
-penyataan kedua : pada ember pertama, pindahkan isi ember tersebut ke ember kedua yang berisi 3L sehingga pada ember kedua berisi dengan jumlah yang sama yaitu 4L
+Resume materi Software Testing as a career path.
+1. mempelajari tentang apa itu software testing, apa saja yang digunakan untuk software testing
+2. pada skill software tester, terdapat dua bagian skil, yaitu non technical skills dan technikal skill.
+3. memepelajari jenjang career software tester, mulai dari fresher sampai manager.
