@@ -1,13 +1,3 @@
-1 Version Control with Git
-
-Resume 
-Dalam materi ini, mempelajari:
-1. Git
-2. Github
-
-Git
-Git merupakan salah satu version control system populer yang
-digunakan para developer untuk mengembangkan softwaresecara bersama-sama.
-
-Github
-Github merupakan hosting dari git service untuk membuat repository
+start
+penyataan pertama : pada ember pertama, buang isi di ember tersebut sebanyak 1L untuk memperoleh nilai 4L
+penyataan kedua : pada ember pertama, pindahkan isi ember tersebut ke ember kedua yang berisi 3L sehingga pada ember kedua berisi dengan jumlah yang sama yaitu 4L
